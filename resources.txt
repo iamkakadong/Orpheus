@@ -1,0 +1,14 @@
+# Projects
+- Magenta: https://ai.google/research/teams/brain/magenta/
+
+# Datasets
+- Nsynth: note -> sound (https://magenta.tensorflow.org/datasets/nsynth)
+- Yamaha e-Piano Competition dataset: used by magenta (http://tinyurl.com/y89bey9n)
+
+# Paper
+- All papers from Magenta: http://tinyurl.com/ydg5nlsy
+- Performance RNN: Generating Music with Expressive Timing and Dynamics (http://tinyurl.com/yd4jzjpt)
+- Neural Audio Synthesis of Musical Notes
+with WaveNet Autoencoders (http://tinyurl.com/yaxoylkv)
+- Hierarchical Variational Autoencoders for Music (http://tinyurl.com/yaz9mpf8)
+- Learning to Create Piano Performances (http://tinyurl.com/yaptqc9s)
